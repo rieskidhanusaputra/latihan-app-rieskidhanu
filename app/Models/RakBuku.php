@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class RakBuku extends Model
 {
-    // use HasFactory;
+    use HasFactory;
     protected $table = 'rak_buku';
     public function buku(): HasMany
     {
