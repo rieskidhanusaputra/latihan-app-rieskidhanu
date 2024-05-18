@@ -20,6 +20,9 @@
     <!-- Custom styles for this template-->
     <link href="/web-template/css/sb-admin-2.min.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jqueryui.css">
+
+
 </head>
 
 <body id="page-top">
@@ -249,6 +252,9 @@
     <!-- Page lev/web-template/el custom scripts -->
     <script src="/web-template/js/demo/chart-area-demo.js"></script>
     <script src="/web-template/js/demo/chart-pie-demo.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
 
 </body>
 
